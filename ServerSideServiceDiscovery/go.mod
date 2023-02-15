@@ -5,7 +5,7 @@ require (
 	github.com/casbin/casbin v1.9.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/golang/protobuf v1.5.2
-	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0
+	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/hashicorp/go-msgpack v0.5.5 // indirect
 	github.com/hashicorp/serf v0.8.5
 	github.com/stretchr/testify v1.8.1
