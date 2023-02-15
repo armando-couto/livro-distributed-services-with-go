@@ -7,7 +7,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/hashicorp/go-msgpack v0.5.5 // indirect
-	github.com/hashicorp/serf v0.8.5
+	github.com/hashicorp/serf v0.10.1
 	github.com/stretchr/testify v1.8.1
 	github.com/travisjeffery/go-dynaport v0.0.0-20171218080632-f8768fb615d5
 	github.com/tysontate/gommap v0.0.0-20190103205956-899e1273fb5c
