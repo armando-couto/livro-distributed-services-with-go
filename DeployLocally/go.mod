@@ -10,7 +10,7 @@ require (
 	github.com/hashicorp/raft-boltdb v0.0.0-20191021154308-4207f1bf0617
 	github.com/hashicorp/serf v0.10.1
 	github.com/soheilhy/cmux v0.1.5
-	github.com/spf13/cobra v1.0.0
+	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.8.1
 	github.com/travisjeffery/go-dynaport v0.0.0-20171218080632-f8768fb615d5
