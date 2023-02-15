@@ -1,6 +1,6 @@
 # START: probes
 # START: beginning
-FROM golang:1.14-alpine AS build
+FROM golang:1.20-alpine AS build
 WORKDIR /go/src/proglog
 COPY . .
 RUN CGO_ENABLED=0 go build -o /go/bin/proglog ./cmd/proglog
