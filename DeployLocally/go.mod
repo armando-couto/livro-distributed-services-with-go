@@ -4,7 +4,7 @@ require (
 	github.com/casbin/casbin v1.9.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/golang/protobuf v1.5.2
-	github.com/gorilla/mux v1.7.4
+	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/raft v1.3.11
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/hashicorp/raft-boltdb v0.0.0-20191021154308-4207f1bf0617
