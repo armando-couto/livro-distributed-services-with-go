@@ -1,7 +1,7 @@
 module github.com/travisjeffery/proglog
 
 require (
-	github.com/casbin/casbin/v2 v2.63.0
+	github.com/casbin/casbin/v2 v2.64.0
 	github.com/cloudflare/cfssl v1.4.1 // indirect
 	github.com/davecgh/go-spew v1.1.1
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
