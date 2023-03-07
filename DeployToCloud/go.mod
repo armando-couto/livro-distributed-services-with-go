@@ -1,7 +1,7 @@
 module github.com/travisjeffery/proglog
 
 require (
-	github.com/casbin/casbin/v2 v2.65.0
+	github.com/casbin/casbin/v2 v2.65.1
 	github.com/golang/protobuf v1.5.2
 	github.com/hashicorp/raft v1.3.11
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
