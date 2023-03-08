@@ -16,7 +16,7 @@ require (
 	github.com/tysontate/gommap v0.0.2
 	google.golang.org/genproto c8e22ba71e44
 	google.golang.org/grpc v1.53.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.29.0
 )
 
 go 1.13
