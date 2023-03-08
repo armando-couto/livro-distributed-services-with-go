@@ -3,7 +3,7 @@ module github.com/travisjeffery/proglog
 require (
 	github.com/casbin/casbin/v2 v2.65.1
 	github.com/davecgh/go-spew v1.1.1
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/hashicorp/raft v1.3.11
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/hashicorp/raft-boltdb/v2 v2.2.2
