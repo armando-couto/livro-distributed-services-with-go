@@ -19,7 +19,7 @@ require (
 	go.uber.org/zap v1.24.0
 	google.golang.org/genproto c8e22ba71e44
 	google.golang.org/grpc v1.53.0
-	google.golang.org/protobuf v1.29.0
+	google.golang.org/protobuf v1.29.1
 )
 
 go 1.13
