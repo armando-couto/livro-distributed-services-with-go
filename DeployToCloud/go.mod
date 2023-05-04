@@ -16,7 +16,7 @@ require (
 	go.opencensus.io v0.24.0
 	go.uber.org/zap v1.24.0
 	google.golang.org/genproto c8e22ba71e44
-	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc v1.55.0
 	google.golang.org/grpc/examples v0.0.0-20200925170654-e6c98a478e62 // indirect
 	google.golang.org/protobuf v1.30.0
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
