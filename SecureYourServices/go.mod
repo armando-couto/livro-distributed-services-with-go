@@ -15,7 +15,7 @@ require (
 	github.com/travisjeffery/go-dynaport v0.0.0-20171218080632-f8768fb615d5 // indirect
 	github.com/tysontate/gommap v0.0.2
 	google.golang.org/genproto c8e22ba71e44
-	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc v1.55.0
 	google.golang.org/protobuf v1.30.0
 )
 
