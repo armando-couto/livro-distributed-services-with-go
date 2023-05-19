@@ -12,7 +12,7 @@ require (
 	github.com/jmoiron/sqlx v1.2.0 // indirect
 	github.com/lib/pq v1.3.0 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	github.com/travisjeffery/go-dynaport v0.0.0-20171218080632-f8768fb615d5 // indirect
 	github.com/tysontate/gommap v0.0.2
 	go.opencensus.io v0.24.0
