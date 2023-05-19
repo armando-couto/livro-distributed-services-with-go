@@ -10,7 +10,7 @@ require (
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.15.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	github.com/travisjeffery/go-dynaport v1.0.0
 	github.com/tysontate/gommap v0.0.2
 	go.opencensus.io v0.24.0
