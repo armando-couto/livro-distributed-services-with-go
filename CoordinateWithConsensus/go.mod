@@ -13,7 +13,7 @@ require (
 	github.com/travisjeffery/go-dynaport v1.0.0
 	github.com/tysontate/gommap v0.0.2
 	go.opencensus.io v0.24.0
-	go.uber.org/zap v1.24.0
+	go.uber.org/zap v1.27.0
 	google.golang.org/genproto c8e22ba71e44
 	google.golang.org/grpc v1.55.0
 	google.golang.org/protobuf v1.30.0
