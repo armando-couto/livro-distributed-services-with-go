@@ -8,7 +8,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/hashicorp/go-msgpack v0.5.5 // indirect
 	github.com/hashicorp/serf v0.10.1
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	github.com/travisjeffery/go-dynaport v1.0.0
 	github.com/tysontate/gommap v0.0.2
 	go.opencensus.io v0.24.0
