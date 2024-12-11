@@ -4,7 +4,7 @@ require (
 	github.com/casbin/casbin/v2 v2.75.1
 	github.com/golang/protobuf v1.5.3
 	github.com/hashicorp/raft v1.5.0
-	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
+	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.2.0
 	github.com/hashicorp/raft-boltdb/v2 v2.2.2
 	github.com/hashicorp/serf v0.10.1
 	github.com/soheilhy/cmux v0.1.5
