@@ -8,7 +8,7 @@ require (
 	github.com/golang/protobuf v1.5.3
 	github.com/stretchr/testify v1.8.4
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.36.6
 	github.com/tysontate/gommap v0.0.2
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )

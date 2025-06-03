@@ -18,7 +18,7 @@ require (
 	google.golang.org/genproto c8e22ba71e44
 	google.golang.org/grpc v1.72.2
 	google.golang.org/grpc/examples v0.0.0-20200925170654-e6c98a478e62 // indirect
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.36.6
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )
 
