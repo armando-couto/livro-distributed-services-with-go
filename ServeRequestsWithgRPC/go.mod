@@ -7,6 +7,6 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/tysontate/gommap v0.0.2
 	google.golang.org/genproto c8e22ba71e44
-	google.golang.org/grpc v1.72.2
+	google.golang.org/grpc v1.73.0
 	google.golang.org/protobuf v1.30.0
 )
