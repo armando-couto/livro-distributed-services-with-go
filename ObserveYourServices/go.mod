@@ -14,7 +14,7 @@ require (
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
 	github.com/stretchr/testify v1.8.4
 	github.com/travisjeffery/go-dynaport v0.0.0-20171218080632-f8768fb615d5 // indirect
-	github.com/tysontate/gommap v0.0.2
+	github.com/tysontate/gommap v0.0.3
 	go.opencensus.io v0.24.0
 	go.uber.org/zap v1.24.0
 	google.golang.org/genproto c8e22ba71e44
